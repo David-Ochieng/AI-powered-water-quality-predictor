@@ -5,3 +5,7 @@ streamlit
 matplotlib
 seaborn
 joblib
+fastapi
+uvicorn[standard]
+python-multipart
+
