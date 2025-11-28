@@ -1,11 +1,8 @@
+streamlit
 pandas
 numpy
-scikit-learn
-streamlit
+joblib
 matplotlib
 seaborn
-joblib
-fastapi
-uvicorn[standard]
-python-multipart
+scikit-learn
 
